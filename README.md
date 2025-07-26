@@ -1,5 +1,5 @@
 # test-repo
 
-'''
+```
 go install
-'''
+```
