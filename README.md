@@ -1,1 +1,5 @@
 # test-repo
+
+'''
+go install
+'''
